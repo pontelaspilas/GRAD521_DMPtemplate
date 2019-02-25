@@ -33,6 +33,9 @@ Within, ATLAS.ti I will have various opportunities to create or add metadata wit
 
 
 # Storage and security
+The audio-recordings will be on the recorders and will be locked in a safe in the PIs office. The audio recordings will be uploaded on the PI's work computer that is password protected. In addition, the audio recording will be uploaded to the OSU box that is shared by the research team and created by the PI. This will help ensure data does not disappear after I graduate.  The data will be retained for five years as stated in our IRB. 
+Incremental Backups will be done when there are any changes or updates to documents. Any new document or Hermeneutic Unit created or updated will be saved on the computer and on the drive. In addition, full backups on an external hardrive will be done monthly and the hardrive will be placed in the safe. Since, I expect to have seven focus groups I will have at least seven orginal copies of the trasncriptions. I will not automate the process through a program for any updates. I will use current standards to use orginal name and date for the data (year month day). I expect to have over 100 total files including documents such as the focus group guides, research diaries, and updated Hermeneutic Units. 
+
 
 # Access and data sharing
 

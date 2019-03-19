@@ -13,14 +13,23 @@ The PI will be the main person responsible in ensuring the data management plan 
 There are no metadata standards for this research project. What is currently in the field does not fit the needs of this project so unstructured metadata will be developed. Metadata will be stored in in two places, a read me file describing the project and data collected and within the ATLAS.ti program itself which is what will be used for analysis. Metadata will be created throughout the research process including analysis. The read me file will include the following each focus group transcription:
 
 Project Title: Co-creating a telenovela-based intervention to address social isolation and generate community resilience among LGBTQ youth in the USA Research Institution: Oregon State University Project Director: Dr. Jonathan Garcia Grant: Robert Wood Johnson Foundation
+
 Project Description:
+
 Data Name of file: 
+
 Format: 
+
 Date: 
+
 Creator: 
+
 Facilitators: 
+
 Facilitator Demographics:
+
 Description/Attributes:
+
 Photos:
 
 There will be three types of data formats for the focus group data, MP3 files of the audio, transcriptions of the audio recordings in a read me file, and pictures of brainstorming activities as JPGs. The transcriptions will include verbal statements of what was said and who said it (For example, Facilitator, Co-facilitator, participant 1, participant 2 etc).

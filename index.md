@@ -11,6 +11,7 @@ The PI will be the main person responsible in ensuring the data management plan 
 
 # Data standards and metadata
 There are no metadata standards for this research project. What is currently in the field does not fit the needs of this project so unstructured metadata will be developed. Metadata will be stored in in two places, a read me file describing the project and data collected and within the ATLAS.ti program itself which is what will be used for analysis. Metadata will be created throughout the research process including analysis. The read me file will include the following each focus group transcription:
+
 Project Title: Co-creating a telenovela-based intervention to address social isolation and generate community resilience among LGBTQ youth in the USA Research Institution: Oregon State University Project Director: Dr. Jonathan Garcia Grant: Robert Wood Johnson Foundation
 Project Description:
 Data Name of file: 
@@ -21,6 +22,7 @@ Facilitators:
 Facilitator Demographics:
 Description/Attributes:
 Photos:
+
 There will be three types of data formats for the focus group data, MP3 files of the audio, transcriptions of the audio recordings in a read me file, and pictures of brainstorming activities as JPGs. The transcriptions will include verbal statements of what was said and who said it (For example, Facilitator, Co-facilitator, participant 1, participant 2 etc).
 Within, ATLAS.ti there will be various opportunities to create or add metadata within the data management software. For example, document groups will be created (https://www.youtube.com/watch?v=5zwKBFxxE9o) based on specific attributes such as the demographics of the population. The document groups will be based on these attributes. Another attribute that will be coded for is focus group type, 4-H youth, service providers, 4-H parents, and LGBTQ youth. In addition, a description of each file that is imported within the description box of the file in the primary document manager https://www.youtube.com/watch?v=wZX3yq7IeJ8 . During the analysis portion, codes will be created through first and second cycle coding methods. These include structural, descriptive, and in vivo coding. Second cycle methods will include eclectic and pattern coding. Finally, overall themes will be developed through thematic analysis.  When developing a code, each code will be given an operational definition to be included in the codebook. There will be at least 30 codes to 100 codes. The codebook can be exported from ATLAS.ti with the operational definition, groundedness, creator, modifier, creation date, and modification date (https://www.youtube.com/watch?v=sp5xHei_uyI ). Lastly, the analysis portion includes writing analytic memos (https://www.youtube.com/watch?v=txmhlUzJiiM). Analytic memos act like a research diary in which the person analyzing the data reflects on the analytical process and comments on new thoughts, questions, ideas for future studies, or explanations of why they did things a certain way or why was something modified.
 

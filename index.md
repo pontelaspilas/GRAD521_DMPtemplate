@@ -9,30 +9,19 @@ The PI will be the main person responsible in ensuring the data management plan 
 
 
 # Data standards and metadata
-There are no metadata standards on the current project I’m working on.  
-
-What is currently in the field does not fit our needs so I will create unstructured metadata. I will create metadata in two places, a read me file and within the ATLAS.ti program itself which is what I will use for analysis. I will record the metadata throughout the research process including analysis. In the read me file I will include the following for the overall project and for each file:
-
-Project Title: Co-creating a telenovela-based intervention to address social isolation and generate community resilience among LGBTQ youth in the USA
-Research Institution: Oregon State University
-Project Director: Dr. Jonathan Garcia
-Grant: Robert Wood Johnson Foundation
-
+There are no metadata standards for this research project. What is currently in the field does not fit the needs of this project so unstructured metadata will be developed. Metadata will be stored in in two places, a read me file describing the project and data collected and within the ATLAS.ti program itself which is what will be used for analysis. Metadata will be created throughout the research process including analysis. The read me file will include the following each focus group transcription:
+Project Title: Co-creating a telenovela-based intervention to address social isolation and generate community resilience among LGBTQ youth in the USA Research Institution: Oregon State University Project Director: Dr. Jonathan Garcia Grant: Robert Wood Johnson Foundation
 Project Description:
-
-Data
-Name of file:
-Format:
-Date:
-Creator:
-Description/Attributes:
-Facilitator:
+Data Name of file: 
+Format: 
+Date: 
+Creator: 
+Facilitators: 
 Facilitator Demographics:
-
-I will have three types of data formats for the focus group data, MP3 files of the audio, transcriptions of the audio recordings in a word file, and pictures of brainstorming activities as JPGs. For the data that are transcriptions, I will only have descriptions of who said what. For example, Facilitator, Co-facilitator, participant 1, participant 2 etc. with exactly what was said. 
-
-
-Within, ATLAS.ti I will have various opportunities to create or add metadata within the data management software. For example, I will create document groups (https://www.youtube.com/watch?v=5zwKBFxxE9o) based on specific attributes. There are now at least 7 focus groups that we will do with different populations. The document groups will be based on these attributes. These will be data formats such the transcriptions and brainstorm images. Another one would be focus group type, 4-H youth, Portland providers, parents of LGBTQ youth, 4-H parents, LGBTQ youth, and rural providers. In addition, I can provide a description of each file that I import within the description box of the file in the primary document manager https://www.youtube.com/watch?v=wZX3yq7IeJ8 . Later on, I will create codes as I read the transcripts. I will probably start with descriptive codes as to when a specific question was asked and then work on open coding. When developing a code, I will give each code an operational definition. Usually, there are at least 30 plus codes for data I typically work with and have had hundreds of codes depending on the size of the file. One of the metadata aspects that will be created will be codebook. I can export a codebook output with the operational definition, groundedness, creator, modifier, creation date, and modification date (https://www.youtube.com/watch?v=sp5xHei_uyI ). Lastly, the analysis portion includes writing analytic memos (https://www.youtube.com/watch?v=txmhlUzJiiM). Analytic memos are like a research diary in which you reflect on the analytical process and comment new thoughts, questions, ideas for future studies, or explanations of why you did things a certain way or why was something modified. 
+Description/Attributes:
+Photos:
+There will be three types of data formats for the focus group data, MP3 files of the audio, transcriptions of the audio recordings in a read me file, and pictures of brainstorming activities as JPGs. The transcriptions will include verbal statements of what was said and who said it (For example, Facilitator, Co-facilitator, participant 1, participant 2 etc).
+Within, ATLAS.ti there will be various opportunities to create or add metadata within the data management software. For example, document groups will be created (https://www.youtube.com/watch?v=5zwKBFxxE9o) based on specific attributes such as the demographics of the population. The document groups will be based on these attributes. Another attribute that will be coded for is focus group type, 4-H youth, service providers, 4-H parents, and LGBTQ youth. In addition, a description of each file that is imported within the description box of the file in the primary document manager https://www.youtube.com/watch?v=wZX3yq7IeJ8 . During the analysis portion, codes will be created through first and second cycle coding methods. These include structural, descriptive, and in vivo coding. Second cycle methods will include eclectic and pattern coding. Finally, overall themes will be developed through thematic analysis.  When developing a code, each code will be given an operational definition to be included in the codebook. There will be at least 30 codes to 100 codes. The codebook can be exported from ATLAS.ti with the operational definition, groundedness, creator, modifier, creation date, and modification date (https://www.youtube.com/watch?v=sp5xHei_uyI ). Lastly, the analysis portion includes writing analytic memos (https://www.youtube.com/watch?v=txmhlUzJiiM). Analytic memos are like a research diary in which you reflect on the analytical process and comment new thoughts, questions, ideas for future studies, or explanations of why you did things a certain way or why was something modified.
 
 
 # Storage and security
